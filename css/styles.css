@@ -5,4 +5,55 @@
 }
 body{
     background-color: #bedcfa;
+    font-size: 14px;
+}
+
+.container{
+    background-color: #bedcfa ;
+    width: 70%;
+    margin-top: 50px;
+
+}
+.card{
+    background-color: #bedcfa ;
+}
+.card-top-left{
+    
+    /* background-color: #8219d8ce; */
+    background-color: #700ec0cc;
+    color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+    height: 315px;
+    
+    border-radius: 10px;
+    box-shadow: 5px 5px  #615f6309;
+    
+}
+.card-top-right{
+    background-color: #221f3bbe;
+    color: white;
+    height: 315px;
+    padding: 20px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+.card-bottom-left{
+    background-color: #fff;
+    color: black;
+    border-radius: 10px;
+    height: 315px;
+    margin-top: 30px;
+    box-shadow: 5px 5px rgba(255, 255, 255, 0.137);
+    padding: 20px;
+    padding-bottom: 40px;
+}
+.card-bottom-right{
+    background-color: #221f3b;
+    color: white;
+    height: 315px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    padding-bottom: 40px;
 }
