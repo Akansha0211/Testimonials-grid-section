@@ -59,11 +59,10 @@ body{
 }
 
 img{
+    float: left;
     border-radius: 50px;
-    margin-bottom: 10px;
+    margin-right: 20px;
 }
 .heading-body-tl{
-    float: right;
-    margin-right: 380px;
-    margin-top: 5px;
+    
 }
