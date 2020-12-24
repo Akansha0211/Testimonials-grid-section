@@ -17,6 +17,7 @@ body{
 }
 .card{
     background-color: #bedcfa ;
+
 }
 .card-top-left{
     
@@ -58,6 +59,10 @@ body{
     padding: 20px;
     padding-bottom: 30px;
 }
+.card-top-extreme-right{
+    background-color: #fff;
+    height: 600px;
+}
 
 img{
     float: left;
@@ -68,5 +73,6 @@ img{
     font-weight: 600;
     font-size: 20px;
 }
+
 
 
