@@ -80,5 +80,54 @@ img{
     opacity: 50%;
 }
 
+@media(max-width:801px){
+    .card-top-left{
+        /* background-color: #8219d8ce; */
+        background-color: #700ec0cc;
+        color: white;
+        padding: 20px;
+        height: 450px;  
+        border-radius: 10px;
+        margin-bottom: 30px;   
+    }
+    .card-top-right{
+        background-color: #221f3bbe;
+        color: white;
+        height: 280px;
+        padding: 20px;
+        padding-bottom: 30px;
+        border-radius: 10px;
+    }
+    .card-bottom-left{
+        background-color: #fff;
+        color: black;
+        border-radius: 10px;
+        height: 270px;
+        margin-top: 30px; 
+        padding: 20px;
+        padding-bottom: 30px;
+    }
+
+    .card-bottom-right{
+        background-color: #221f3b;
+        color: white;
+        height: 410px;
+        margin-top: 30px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 30px;
+        
+    }
+    .card-top-extreme-right{
+        background-color: #fff;
+        color: black;
+        height: 460px;
+        border-radius: 10px;
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    
+}
+
 
 
