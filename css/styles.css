@@ -4,19 +4,19 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #bedcfa;
+    background-color: #c1defa3b;
     font-size: 14px;
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 .container{
-    background-color: #bedcfa ;
+    background-color: #c1defa3b ;
     width: 100%;
     margin-top: 50px;
 
 }
 .card{
-    background-color: #bedcfa ;
+    background-color: #c1defa3b;
 
 }
 .card-top-left{
@@ -29,7 +29,7 @@ body{
     height: 300px;
     
     border-radius: 10px;
-    box-shadow: 5px 5px  #615f6309;
+    
     
 }
 .card-top-right{
@@ -46,7 +46,7 @@ body{
     border-radius: 10px;
     height: 300px;
     margin-top: 30px;
-    box-shadow: 5px 5px rgba(255, 255, 255, 0.137);
+    
     padding: 20px;
     padding-bottom: 30px;
 }
