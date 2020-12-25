@@ -59,8 +59,12 @@ body{
     padding: 20px;
     padding-bottom: 30px;
 }
-.card{
-    display: inline-block;
+.card-top-extreme-right{
+    background-color: #fff;
+    color: black;
+    height: 625px;
+    border-radius: 10px;
+    padding: 20px;
 }
 
 img{
