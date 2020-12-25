@@ -59,13 +59,8 @@ body{
     padding: 20px;
     padding-bottom: 30px;
 }
-.card-left{
-    float: left;
-    margin-right: 20px;
-}
-.card-top-extreme-right{
-    background-color: #fff;
-    height: 600px;
+.card{
+    display: inline-block;
 }
 
 img{
